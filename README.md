@@ -1,7 +1,5 @@
 # ml_intro
 
-Overleaf - `https://www.overleaf.com/read/tdffmrxthvrc#61da0e`
-
 ML Content is mostly based on LMU Munich's https://slds-lmu.github.io/i2ml/ material.
 
 # Before start of the lectures
