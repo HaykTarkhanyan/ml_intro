@@ -8,18 +8,18 @@
 [x] Regression evaluation (MSE, MAE, MAPE, R2, Pearson/Spearman, Plots)
 [x] Cross validation
 [x] Regularization
-[] Train Val Test split
-[] Hyperparameter tuning
-[] Logistic regression
-[] Log odds (deriving at sigmoid function)
-[] Log (Bernoulli) loss
-[] Classification evaluation (Accuracy, Confusion matrix(and derivatives), F1, ROC, PR AUC)
-[] Threshold tuning
+[x] Train Val Test split
+[x] Hyperparameter tuning
+[x] Logistic regression
+[x] Log odds (deriving at sigmoid function)
+[x] Log (Bernoulli) loss
+[x] Classification evaluation (Accuracy, Confusion matrix(and derivatives), F1, ROC, PR AUC)
+[x] Threshold tuning
 
 Overall todo
-[] Decision tree (Gini index, prunning)
-[] Random Forest
+[x] Decision tree (Gini index, prunning)
+[x] Random Forest
 [] Boosting
 [] LightGBM / XGBoost / CatBoost
-[] Clustering (K-means, DBSCAN)
+[x] Clustering (K-means, DBSCAN)
 [] NNs
